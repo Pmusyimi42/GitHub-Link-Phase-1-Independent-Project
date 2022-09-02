@@ -78,8 +78,12 @@ document.addEventListener("DOMContentLoaded",()=>{
         cartIcon.innerHTML = basket.map(itm => itm.item).reduce((x, y)=> x + y, 0)
     
     };
-    calculation()
+    calculation();
+    function buildLiker(item){
+       
+
+    } 
     
     
             
-    })
+})
