@@ -38,7 +38,7 @@ i{
     margin-bottom: 2em;
 }
 .images{
-    width: 80%;
+    width: 20%;
 }
 .title{
     font-size: 1.3rem;
@@ -69,4 +69,5 @@ i{
 }
 .btn{
     font-size: larger;
+    color: aquamarine;
 }

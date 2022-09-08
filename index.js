@@ -79,10 +79,7 @@ document.addEventListener("DOMContentLoaded",()=>{
     
     };
     calculation();
-    function buildLiker(item){
-       
-
-    } 
+     
     
     
             
